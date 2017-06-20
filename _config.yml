@@ -179,7 +179,8 @@ timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 gems:
-  # - jekyll-paginate
+  - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -187,7 +188,7 @@ gems:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  # - jekyll-paginate
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
