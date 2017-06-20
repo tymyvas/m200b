@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Тиханський Михайло Васильович"
 description              :
 url                      :
-baseurl                  : /m200b
+baseurl                  :
 repository               :
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)

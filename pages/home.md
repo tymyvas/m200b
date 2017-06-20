@@ -1,9 +1,7 @@
 ---
 layout: m200b-home
 author_profile: true
-permalink: /lessons/
-redirect_from:
-  - /
+permalink: /
 ---
 
 ## Підготовка до ЗНО.
