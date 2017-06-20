@@ -11,9 +11,9 @@ title                    : "Мета \u2014 200 балів!"
 title_separator          : "-"
 name                     : "Тиханський Михайло Васильович"
 description              :
-url                      : 
-baseurl                  : 
-repository               : "m200b"
+url                      :
+baseurl                  : /m200b
+repository               :
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
