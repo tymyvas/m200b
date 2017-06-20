@@ -1,7 +1,12 @@
 # main links
 main:
   - title: "Уроки"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /lessons/
+  - title: "Тести"
+    url: /tests/math/
+    children:
+      - title: "Математика"
+        url: /tests/math/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

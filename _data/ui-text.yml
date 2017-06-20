@@ -578,6 +578,50 @@ ru: &DEFAULT_RU
 ru-RU:
   <<: *DEFAULT_RU
 
+# Ukrainian / Українська
+# -----------------
+ua: &DEFAULT_UA
+  page                       : "Сторінка"
+  pagination_previous        : "Попередня"
+  pagination_next            : "Наступна"
+  breadcrumb_home_label      : "Головна"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Випадаюче меню"
+  toc_label                  : "Зміст"
+  ext_link_label             : "Пряме посилання"
+  less_than                  : "менше"
+  minute_read                : "хв на читання"
+  share_on_label             : "Поділитися"
+  meta_label                 :
+  tags_label                 : "Мітки:"
+  categories_label           : "Розділи:"
+  date_label                 : "Дата зміни:"
+  comments_label             : "Залишити коментар"
+  comments_title             : "Коментарі"
+  more_label                 : "Читати далі"
+  related_label              : "Вам також може сподобатися"
+  follow_label               : "Зв’язатися зі мною:"
+  feed_label                 : "RSS-стрічка"
+  powered_by                 : "Сайт працює на"
+  website_label              : "Сайт"
+  email_label                : "Електронна пошта"
+  recent_posts               : "Свіжі дописи"
+  undefined_wpm              : "Не визначено параметр words_per_minute в _config.yml"
+  comment_form_info          : "Вашу адресу електронної почти не буде опубліковано. Обов’язкові поля помічено"
+  comment_form_comment_label : "Коментар"
+  comment_form_md_info       : "Підтримується синтаксис Markdown."
+  comment_form_name_label    : "Ім’я"
+  comment_form_email_label   : "Електронна пошта"
+  comment_form_website_label : "Посилання на сайт (не обов’язково)"
+  comment_btn_submit         : "Залишити коментар"
+  comment_btn_submitted      : "Відправлено"
+  comment_success_msg        : "Дякуємо за Ваш коментар! Його буде опубліковано на сайт після перевірки."
+  comment_error_msg          : "Нажаль, виникла помилка з відправкою коментаря. Будь ласка, переконайтеся, що всі обов’язкові поля заповнено і спробуйте знову."
+  loading_label              : "Відправка..."
+ua-UA:
+  <<: *DEFAULT_UA
+
+
 # Lithuanian / Lietuviškai
 # -----------------
 lt: &DEFAULT_LT
