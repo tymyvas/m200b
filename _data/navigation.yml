@@ -1,12 +1,15 @@
 # main links
 main:
-  - title: "Уроки"
-    url: /lessons/
-  - title: "Тести"
+  - title: "Головна"
+    url: /
+  - title: "Тест з математики"
     url: /tests/math/
-    children:
-      - title: "Математика"
-        url: /tests/math/
+  - title: "Заняття"
+    url: /
+  - title: "Підручники"
+    url: /
+  - title: "Контакти"
+    url: /
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
